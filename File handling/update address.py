@@ -1,4 +1,5 @@
-f=open("update address.txt",'r+')
+#to update and edit address
+f=open("filename.txt",'r+')
 str=f.read()
 print(str)
 str1=input()
