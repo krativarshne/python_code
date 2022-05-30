@@ -1,3 +1,4 @@
+#count of to and the in a file
 count=0
 count1=0
 f=open("to the.txt",'r')
